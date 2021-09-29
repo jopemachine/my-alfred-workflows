@@ -13,3 +13,6 @@
 - [alfred-transform-quotemark](https://github.com/jopemachine/alfred-transform-quotemark): Transform all quotemarks to other quotemarks through Alfred
 
 - [alfred-transform-markdown](https://github.com/jopemachine/alfred-transform-markdown): Transform texts with markdown form
+
+- [alfred-awesome-stars](https://github.com/jopemachine/alfred-transform-markdown): Search starred repository through 'awesome-stars'
+
