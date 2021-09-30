@@ -14,5 +14,5 @@
 
 - [alfred-transform-markdown](https://github.com/jopemachine/alfred-transform-markdown): Transform texts with markdown form
 
-- [alfred-awesome-stars](https://github.com/jopemachine/alfred-transform-markdown): Search starred repository through 'awesome-stars'
+- [alfred-awesome-stars](https://github.com/jopemachine/alfred-awesome-stars): Search starred repository through 'awesome-stars'
 
