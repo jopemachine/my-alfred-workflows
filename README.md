@@ -16,3 +16,5 @@
 
 - [alfred-awesome-stars](https://github.com/jopemachine/alfred-awesome-stars): Search starred repository through 'awesome-stars'
 
+- [alfred-squoosh](https://github.com/jopemachine/alfred-squoosh): Convert images through Squoosh in Alfred 4
+
