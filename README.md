@@ -18,3 +18,4 @@
 
 - [alfred-squoosh](https://github.com/jopemachine/alfred-squoosh): Convert, compress images through Squoosh API in Alfred 4
 
+- [alfred-nintendo-switch-price-compare](https://github.com/jopemachine/alfred-nintendo-switch-price-compare): Compare nintendo switch game's price by https://eshop-prices.com/
