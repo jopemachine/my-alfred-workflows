@@ -6,8 +6,6 @@
 
 - [alfred-simple-email-fetcher](https://www.npmjs.com/package/alfred-simple-email-fetcher): Fetch and show emails through imap
 
-- [alfred-deno-doc](https://www.npmjs.com/package/alfred-deno-doc): Search deno documentation through Alfred 4.
-
 - [alfred-kakaotalk-workflow](https://www.npmjs.com/package/alfred-kakaotalk-workflow): Kakaotalk workflow for Alfred 4
 
 - [alfred-transform-quotemark](https://github.com/jopemachine/alfred-transform-quotemark): Transform all quotemarks to other quotemarks through Alfred
