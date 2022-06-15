@@ -4,8 +4,6 @@
 
 - [alfred-chromium-workflow](https://github.com/jopemachine/alfred-chromium-workflow): Chromium based browser workflow for Alfred 4
 
-- [alfred-chrome-workflow](https://www.npmjs.com/package/alfred-chrome-workflow): (Deprecated) Alfred workflow to search Chrome kernel based browser's queries, bookmarks, history and download logs, and other datas
-
 - [alfred-simple-email-fetcher](https://www.npmjs.com/package/alfred-simple-email-fetcher): Fetch and show emails through imap
 
 - [alfred-kakaotalk-workflow](https://www.npmjs.com/package/alfred-kakaotalk-workflow): Kakaotalk workflow for Alfred 4
