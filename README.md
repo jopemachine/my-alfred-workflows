@@ -19,3 +19,7 @@
 - [alfred-nintendo-switch-price-compare](https://github.com/jopemachine/alfred-nintendo-switch-price-compare): Compare nintendo switch game's price by [eshop-prices.com](https://eshop-prices.com/) [![](https://img.shields.io/github/stars/jopemachine/alfred-nintendo-switch-price-compare?logo=github&style=plastic)](https://github.com/jopemachine/alfred-nintendo-switch-price-compare)
 
 - [alfred-one-thing](https://github.com/jopemachine/alfred-one-thing): Set the text for the One Thing app in Alfred [![](https://img.shields.io/github/stars/jopemachine/alfred-one-thing?logo=github&style=plastic)](https://github.com/jopemachine/alfred-one-thing)
+
+## Related
+
+- [generator-alfred](https://github.com/jopemachine/generator-alfred) - Scaffold out an Alfred workflow [![](https://img.shields.io/github/stars/jopemachine/generator-alfred?logo=github&style=plastic)](https://github.com/jopemachine/generator-alfred)
